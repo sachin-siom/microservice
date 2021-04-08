@@ -1,4 +1,4 @@
-package com.mkyong.error;
+package com.book.exception;
 
 import java.util.Set;
 

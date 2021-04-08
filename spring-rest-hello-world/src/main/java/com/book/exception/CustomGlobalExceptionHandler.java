@@ -1,4 +1,4 @@
-package com.mkyong.error;
+package com.book.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ControllerAdvice;
